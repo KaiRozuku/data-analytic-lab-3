@@ -1,0 +1,5 @@
+/.venv
+/test.csv
+/registry.csv
+/train.csv
+/requirements.txt
